@@ -1,6 +1,9 @@
 # Final Project Part 2
 
 ### Wireframes & Storyboards 
+In creating my new storyboard, I realized my scope in the previous one was too long, and there were a bit too many breakdowns of data that were likely unnecessary. For this updated storyboard, I took out some unneeded sections that probably clogged the story rather than helping to tell it. The current storyboard is below, with each heading (and working title) boxed in gray. Each section is marked on the left side in either purple or green, indicating text (green) and graphics (purple). The colors assist in determining the flow of the project and to ensure that the visuals are being properly supported and explained with accompanying text. 
+
+![Screen Shot 2023-11-30 at 11 26 07 PM](https://github.com/emmavoelker/FinalProjectPart2/assets/149551887/5eecf314-48e5-4277-8ff5-d62adfd11025)
 
 ![73 percent agree the arts help them understand other cultures better, an 11 percent increase compared to 2015](https://github.com/emmavoelker/FinalProjectPart2/assets/149551887/5bc5726a-37f8-485b-b7fd-7a6333ca77d6)
 
