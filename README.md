@@ -22,10 +22,22 @@ In identifying representative individuals to interview, I wanted to interview so
 
 I also interviewed someone who does not fall into my defined "target audience" to observe if they had any additional comments or criticisms that my target audience did not identify. Coming from a different background, I was curious to see if he had any additional insight into both the results of the data and the way that it was presented. Some of my target audiences likely have a background in the arts, or are at least aware of any key statistical facts. 
 
+In conducting the interviews, I was curious to measure the audience's interest in the subject, and whether my current flow/storyboard served that intended purpose. I also wanted to test for topic understandability, and the knowledge that my target audience might be already bringing to the experience, and what gaps might need to be filled. 
+
 #### Interview Script & Findings 
+##### Script
+(When prompted with a few examples of the data visualizations and the story board)
+1) What do you think this topic is about?
+2) Who do you think the primary audience for this particular project is?
+3) What types of data visualizations would you expect to see accompany this data?
+4) What types of feelings would you expect to feel learning about this topic? (suprised, angry, neutral, interested)
+
+
+#### Implemented Changes  
 d. the findings from your interviews; and 
 e. changes you plan on implementing to your visualizations next week to address the issues identified. 
-#### Implemented Changes  
+
+After conducing the interviews, I plan on changing ******************
 
 ### Moodboard 
 ![Mood Board](https://github.com/emmavoelker/final_project_EmmaVoelker/assets/149551887/d695165e-0387-47ff-8f5d-45fde2756d30)
