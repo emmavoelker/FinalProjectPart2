@@ -9,6 +9,8 @@ Examples of a few data visualizations include the following (sources to be added
 
 As we discussed in class on Thursday, I also plan to utilize RAWGraphs in some capacity. I like the idea of implementing more "fun" visuals and testing out a new software for learning purposes. As indicated on my outline, I would like to do so in the Graphic number five if applicable. 
 
+**NOTE**: The graphic types depicted below correlate with those mentioned in my storyboard 
+
 ![73 percent agree the arts help them understand other cultures better, an 11 percent increase compared to 2015](https://github.com/emmavoelker/FinalProjectPart2/assets/149551887/5bc5726a-37f8-485b-b7fd-7a6333ca77d6)
 
 ![Screen Shot 2023-11-22 at 12 14 52 AM](https://github.com/emmavoelker/FinalProjectPart2/assets/149551887/60a0a3ec-a504-4aec-bfe2-54252bba8a0a)
