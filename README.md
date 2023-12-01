@@ -33,12 +33,37 @@ In conducting the interviews, I was curious to measure the audience's interest i
 3) What types of data visualizations would you expect to see accompany this data?
 4) What types of feelings would you expect to feel learning about this topic? (suprised, angry, neutral, interested)
 
+**Interviewee 1:**
+Female, 22 
+1) What do you think this topic is about?
+2) Who do you think the primary audience for this particular project is?
+3) What types of data visualizations would you expect to see accompany this data?
+4) What types of feelings would you expect to feel learning about this topic? (suprised, angry, neutral, interested)
+
+**Interviewee 2:**
+Female, 21 
+1) What do you think this topic is about?
+   "I think it's about how important arts education is in K-12 schools. I would imagine it talks about the data that supports it. I would imagine the data comes from, like, a type of government entity? Since some of them are test scores."
+3) Who do you think the primary audience for this particular project is?
+   "I would think it's art educators or maybe just people who are interested in art and think it should be implemented in schools."
+5) What types of data visualizations would you expect to see accompany this data?
+   "It looks like there are a lot of breakdowns of categories, I would expect these to be bar graphs probably. Also maybe some pie charts or other circular-based visuals? It seems like those are the best ways to show things like different categories"
+7) What types of feelings would you expect to feel learning about this topic? (suprised, angry, neutral, interested)
+   "I'm interested in the topic, so I would expect to find the data interesting. We looked at some arts education data in a class last year, and I really liked that assignment...so I would expect to be both interested and maybe surprised, I'd say."
+
+**Interviewee 3:**
+Male, 24 
+1) What do you think this topic is about?
+   "I think it’s the curriculum for an arts class for kids and how to implement the content"
+3) Who do you think the primary audience for this particular project is?
+   "I think for the storyboard itself it would be teachers so they can present this info to students"
+5) What types of data visualizations would you expect to see accompany this data?
+   "hmmm not sure on the data visualization, mostly images I think?"
+7) What types of feelings would you expect to feel learning about this topic? (suprised, angry, neutral, interested)
+   "I would be neutral personally as it’s not a big area of interest for me usually"
 
 #### Implemented Changes  
-d. the findings from your interviews; and 
-e. changes you plan on implementing to your visualizations next week to address the issues identified. 
-
-After conducing the interviews, I plan on changing ******************
+From the interviews, I found that the topic may not be as clear as intended based on my included headings and data. In order to remedy this, I plan to make the headings clearer and more direct. 
 
 ### Moodboard 
 ![Mood Board](https://github.com/emmavoelker/final_project_EmmaVoelker/assets/149551887/d695165e-0387-47ff-8f5d-45fde2756d30)
