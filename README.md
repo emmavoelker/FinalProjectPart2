@@ -5,6 +5,10 @@ In creating my new storyboard, I realized my scope in the previous one was too l
 
 ![Screen Shot 2023-11-30 at 11 26 07 PM](https://github.com/emmavoelker/FinalProjectPart2/assets/149551887/5eecf314-48e5-4277-8ff5-d62adfd11025)
 
+Examples of a few data visualizations include the following (sources to be added into the final versions of the visuals). I plan to use a combination of Canva and Tableau. Canva will be used for call-out statistics and simpler visualization with a larger design element, and Tableau will be used for the more data-intensive visuals. 
+
+As we discussed in class on Thursday, I also plan to utilize RAWGraphs in some capacity. I like the idea of implementing more "fun" visuals and testing out a new software for learning purposes. As indicated on my outline, I would like to do so in the Graphic number five if applicable. 
+
 ![73 percent agree the arts help them understand other cultures better, an 11 percent increase compared to 2015](https://github.com/emmavoelker/FinalProjectPart2/assets/149551887/5bc5726a-37f8-485b-b7fd-7a6333ca77d6)
 
 
