@@ -69,7 +69,9 @@ Male, 24
    "I would be neutral personally as it’s not a big area of interest for me usually"
 
 #### Implemented Changes  
-From the interviews, I found that the topic may not be as clear as intended based on my included headings and data. In order to remedy this, I plan to make the headings clearer and more direct. 
+From the interviews, I found that the topic may not be as clear as intended based on my included headings and data. In order to remedy this, I plan to make the headings clearer and more direct. It was positive to see that most interviewees were able to understand what I was trying to convey in the data, and were enthusiastic about the topic. I am also glad that the interviewees were able to mostly determine who the target audience was. 
+
+In order to properly address a possible lack of interest in the topic, which is very understandable if one is not involved directly in the arts sector, I may attempt to implement further attention-grabbing statistics and facts. I should be able to implement these in the "public opinions" section easily, but I would also like to add an attention-grabbing hook at the beginning of the project as well. 
 
 ### Moodboard 
 ![Mood Board](https://github.com/emmavoelker/final_project_EmmaVoelker/assets/149551887/d695165e-0387-47ff-8f5d-45fde2756d30)
